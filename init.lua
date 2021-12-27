@@ -1,4 +1,4 @@
--- Foundation workspace
+-- Foundation INIT
 
 local p = premake
 local m = p.modules.lua

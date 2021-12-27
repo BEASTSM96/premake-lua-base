@@ -1,4 +1,4 @@
--- Foundation workspace
+-- Foundation project
 
 local p = premake
 local m = p.modules.lua
