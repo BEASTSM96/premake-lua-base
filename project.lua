@@ -10,7 +10,7 @@ function _project( name, _kind )
 	group "Apps"
 	project ( name )
 		location( name )
-		kind( get_kind( _kind ) )
+		kind( _kind )
 		language( "C++" )
 		cppdialect( "C++20" )
 		staticruntime( "On" )
